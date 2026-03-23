@@ -20,7 +20,9 @@ func main() {
 	// showContains()
 	// showAny()
 	//unionInterfaceAndType()
-	typeApproximation()
+	// typeApproximation()
+	// testFilter()
+	testContains()
 
 }
 
